@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Api\\MultiTenantApplication.Api.csproj": {}
+  },
+  "projects": {
+    "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Api\\MultiTenantApplication.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Api\\MultiTenantApplication.Api.csproj",
+        "projectName": "MultiTenantApplication.Api",
+        "projectPath": "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Api\\MultiTenantApplication.Api.csproj",
+        "packagesPath": "C:\\Users\\smite\\.nuget\\packages\\",
+        "outputPath": "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Core\\SneakersApplication.Core.csproj": {
+                "projectPath": "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Core\\SneakersApplication.Core.csproj"
+              },
+              "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Infrastructure\\SneakersApplication.Infrastructure.csproj": {
+                "projectPath": "I:\\GithubRepos\\others\\MultiTenantApplication\\SneakersApplication.Infrastructure\\SneakersApplication.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

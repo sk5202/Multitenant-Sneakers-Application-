@@ -1,0 +1,5 @@
+{
+  "MultiTenantApplication.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "I:\\CodeMazeGuides-main\\aspnetcore-webapi\\MultiTenantApplication\\MultiTenantApplication.Api",
+  "MultiTenantApplication.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "I:\\CodeMazeGuides-main\\aspnetcore-webapi\\MultiTenantApplication\\MultiTenantApplication.Core",
+  "MultiTenantApplication.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "I:\\CodeMazeGuides-main\\aspnetcore-webapi\\MultiTenantApplication\\MultiTenantApplication.Infrastructure"
+}

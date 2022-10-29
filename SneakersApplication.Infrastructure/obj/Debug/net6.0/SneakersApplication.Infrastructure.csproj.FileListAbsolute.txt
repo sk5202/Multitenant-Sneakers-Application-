@@ -1,0 +1,17 @@
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Infrastructure.deps.json
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Infrastructure.runtimeconfig.json
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Infrastructure.dll
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Infrastructure.pdb
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Core.dll
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\bin\Debug\net6.0\SneakersApplication.Core.pdb
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.csproj.AssemblyReference.cache
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.AssemblyInfoInputs.cache
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.AssemblyInfo.cs
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.csproj.CoreCompileInputs.cache
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.csproj.CopyComplete
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.dll
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\refint\SneakersApplication.Infrastructure.dll
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.pdb
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\SneakersApplication.Infrastructure.genruntimeconfig.cache
+I:\GithubRepos\others\MultiTenantApplication\SneakersApplication.Infrastructure\obj\Debug\net6.0\ref\SneakersApplication.Infrastructure.dll

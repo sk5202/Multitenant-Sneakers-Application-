@@ -1,0 +1,12 @@
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\bin\Debug\net6.0\MultiTenantApplication.Core.deps.json
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\bin\Debug\net6.0\MultiTenantApplication.Core.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\bin\Debug\net6.0\MultiTenantApplication.Core.pdb
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.csproj.AssemblyReference.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.AssemblyInfoInputs.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.AssemblyInfo.cs
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.csproj.CoreCompileInputs.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\refint\MultiTenantApplication.Core.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\MultiTenantApplication.Core.pdb
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Core\obj\Debug\net6.0\ref\MultiTenantApplication.Core.dll

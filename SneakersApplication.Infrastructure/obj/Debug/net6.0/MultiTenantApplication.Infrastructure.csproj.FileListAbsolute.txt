@@ -1,0 +1,17 @@
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Infrastructure.deps.json
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Infrastructure.runtimeconfig.json
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Infrastructure.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Infrastructure.pdb
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Core.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\bin\Debug\net6.0\MultiTenantApplication.Core.pdb
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.csproj.AssemblyReference.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.AssemblyInfoInputs.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.AssemblyInfo.cs
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.csproj.CoreCompileInputs.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.csproj.CopyComplete
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\refint\MultiTenantApplication.Infrastructure.dll
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.pdb
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\MultiTenantApplication.Infrastructure.genruntimeconfig.cache
+I:\CodeMazeGuides-main\aspnetcore-webapi\MultiTenantApplication\MultiTenantApplication.Infrastructure\obj\Debug\net6.0\ref\MultiTenantApplication.Infrastructure.dll
